@@ -2,6 +2,9 @@
 
 This is a full-stack authentication system that supports user registration, login, profile management, and session handling using multiple databases and modern web technologies.
 __________________________________
+## 🔗Live Demo
+http://51.20.7.48/login.html
+________________________________
 ## 🔁System Flow
 
 Register → Login → Redis Session → Profile View → Profile Update → Logout
@@ -185,6 +188,34 @@ This project helped in understanding:
 * Scalable architecture using multiple databases
 * Real-world login system simulation
 _______________________________________
+## 📷Screenshots
+
+### Register Page
+<img width="518" height="408" alt="register " src="https://github.com/user-attachments/assets/db5823a2-41e5-4d68-b07c-1ab7b002d482" />
+
+### Login Page
+<img width="518" height="388" alt="login" src="https://github.com/user-attachments/assets/be2aa4c6-1176-4356-9ab7-a18c21e92252" />
+
+### Password reset Section
+<img width="518" height="348" alt="reset" src="https://github.com/user-attachments/assets/11775428-aff6-4eeb-8f59-cefe959534ac" />
+
+### Profile Page
+<img width="798" height="388" alt="profile" src="https://github.com/user-attachments/assets/69f0a666-bcaa-45be-8408-ba3e6b27e401" />
+
+### Update Details
+<img width="778" height="438" alt="details" src="https://github.com/user-attachments/assets/c368ce98-4bbe-40be-8ea8-3e30bdf764b5" />
+
+### Updated Profile
+<img width="798" height="388" alt="update" src="https://github.com/user-attachments/assets/f9f62d2d-d6d3-4d4f-b4b4-1048cc13ae26" />
+
+
+
+
+
+
+
+
+
 ## 🧑‍💻Developed By
 ### MOHAMED SAMARULLAH S
 
