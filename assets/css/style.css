@@ -1,0 +1,51 @@
+/* PASSWORD TOGGLE ICON */
+
+.password-wrapper{
+    position: relative;
+}
+
+.password-wrapper input{
+    padding-right: 45px;
+}
+
+.toggle-password{
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    display: none;
+    color: #444;
+}
+
+/* EMAIL ERROR MESSAGE */
+
+#errorMsg,
+#emailMsg{
+    color: red;
+    font-size: 14px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+}
+
+/* FORGOT PASSWORD BUTTON */
+
+.forgot-btn{
+    border: none;
+    background: none;
+    color: red;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* CARD DESIGN */
+
+.card{
+    border-radius: 12px;
+}
+
+/* INPUTS */
+
+.form-control{
+    height: 45px;
+}
