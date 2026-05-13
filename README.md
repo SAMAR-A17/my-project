@@ -35,7 +35,7 @@ __________________________________
 
 ## 📁Folder Structure
 
-```text
+```
 my-project/
 ├── assets/
 │   ├── css/
